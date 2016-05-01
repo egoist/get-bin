@@ -30,7 +30,8 @@
   },
   "xo": {
     "semicolon": false,
-    "space": 2
+    "space": 2,
+    "esnext": true
   },
   "dependencies": {
     "read-pkg-up": "^1.0.1"
